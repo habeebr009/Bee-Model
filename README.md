@@ -11,7 +11,11 @@ Yolo Model Prediction
 
 <img src="https://i.imgur.com/DYXYcMD.png" alt="Sample inference showing detected bees" width="900"/>
 
-Bees detected
+Performance of the model
+
+<img src="yolov8-lstm/performance graph.jpg" alt="Performance Table"/>
+
+Training Results
 
 
 <img src="https://i.imgur.com/DRn4L9p.png" alt="Training metrics table"/>
