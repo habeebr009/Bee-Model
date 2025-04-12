@@ -10,4 +10,4 @@ Model
 <img src="yolov8-lstm/bee pic.jpg" alt="Sample inference showing detected bees" width="500"/>
 
 
-<img src="https://imgur.com/a/w42LCkL.jpg" alt="Training metrics table"/>
+<img src="https://i.imgur.com/a/w42LCkL.jpg" alt="Training metrics table"/>
