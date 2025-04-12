@@ -6,4 +6,4 @@ The repository contains [results](yolov8-lstm) of the trained model.
 
 ## Results
 
-<img src="bee pic.jpg" alt="Sample inference showing detected bees" width="500"/>
+<img src="yolov8-lstm/bee pic.jpg" alt="Sample inference showing detected bees" width="500"/>
