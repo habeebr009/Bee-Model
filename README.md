@@ -9,7 +9,7 @@ The repository contains [results](yolov8-lstm) of the trained model.
 Yolo Model Prediction
 
 
-<img src="https://i.imgur.com/DYXYcMD.png" alt="Sample inference showing detected bees"/>
+<img src="https://i.imgur.com/DYXYcMD.png" alt="Sample inference showing detected bees" width="900"/>
 
 
 <img src="https://i.imgur.com/DRn4L9p.png" alt="Training metrics table"/>
